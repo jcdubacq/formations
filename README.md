@@ -239,7 +239,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Master Technologies Nouvelles des Systèmes d’Information (TNSI)](http://formations.univ-valenciennes.fr/cdm/subProgram/FR_RNE_0593279U_PR_SOF-7415/FR_RNE_0593279U_PR_SOF-7417)
 - [Master Cyber-Défense et Sécurité de l’Information (CDSI)](http://formations.univ-valenciennes.fr/cdm/program/FR_RNE_0593279U_PR_SOF-15674)
 
-## Ile de France
+## Île de France
 
 ### Cergy
 
