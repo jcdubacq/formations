@@ -315,6 +315,20 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 	+ [Formation Informatique et Mathématiques Appliquées](https://www.polytech.upmc.fr/fr/formation/informatique-et-mathematiques-appliquees)
 	+ [Formation Robotique](https://www.polytech.upmc.fr/fr/formation/robotique)
 	 
+### Villetaneuse
+
+#### [Université Paris 13/Institut Galilée](https://galilee.univ-paris13.fr/)
+
+#### [IUT de Villetaneuse](http://www.iutv.univ-paris13.fr/FILIERES/INFO-Informatique)
+- [DUT Informatique](https://iutv.univ-paris13.fr/dut-informatique/)
+    + Formation classique ou en alternance (dès la première année)
+    + Également dispensé en un an via [la formation en année spéciale](https://iutv.univ-paris13.fr/dut-informatique-as/)
+- [DUT GEII (Génie électronique et Informatique industrielle)](https://iutv.univ-paris13.fr/dut-genie-electrique-et-informatique-industrielle/)
+- [DUT R&T (Réseaux et Télécommunications)](https://iutv.univ-paris13.fr/dut-reseaux-telecommunications/)
+    + Formation en alternance possible à partir de la deuxième année
+- [LP MICDTL (métiers de l'informatique : conception, développement et test de logiciels)](https://iutv.univ-paris13.fr/licence-pro-genie-logiciel-systeme-dinformation/)
+- [LP Administration et Sécurité des réseaux](https://iutv.univ-paris13.fr/licence-pro-asur-reseaux-et-telecommunications/)
+
 ## Nouvelle Aquitaine
 
 ### Bordeaux
