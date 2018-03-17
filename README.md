@@ -318,6 +318,15 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 ### Villetaneuse
 
 #### [Université Paris 13/Institut Galilée](https://galilee.univ-paris13.fr/)
+- [Licence informatique](https://galilee.univ-paris13.fr/licence/licence-informatique/)
+    + Possibilité de faire une [double licence mathématiques et informatique](https://galilee.univ-paris13.fr/licence/double-licence/)
+- [Master informatique](https://galilee.univ-paris13.fr/master/master-informatique/)
+    + Parcours EID2 : Exploration Informatique des Données et Décisionnel
+    + Parcours PLS  : Programmation et logiciels sûrs
+- [Master délocalisé USTH - Sciences et Technologies de l’Information et de la Communication](https://galilee.univ-paris13.fr/master/master-usth-sciences-technologies-de-linformation-de-communication/)
+    + Master délocalisé à Hô-Chi-Minh-Ville (Viêt Nam)
+- [École d'ingénieurs Sup Galilée](https://galilee.univ-paris13.fr/ingenieurs/)
+    + Spécialité informatique (parcours étudiants FISE et apprentis FISA)
 
 #### [IUT de Villetaneuse](http://www.iutv.univ-paris13.fr/FILIERES/INFO-Informatique)
 - [DUT Informatique](https://iutv.univ-paris13.fr/dut-informatique/)
